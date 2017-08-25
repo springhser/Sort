@@ -47,8 +47,6 @@ class SortHelp(object):
 sort_help = SortHelp()
 
 
-# In[87]:
-
 # 排序算法
 class Sort(object):
     def __int__(self):
@@ -202,7 +200,6 @@ class Sort(object):
 sort = Sort()            
 
 
-# In[85]:
 
 # 堆数据结构
 class MaxHeap(object):
@@ -250,8 +247,6 @@ class MaxHeap(object):
     
             
 
-
-# In[88]:
 
 # 当列表比较有序时，插入排序效率比选择排序更快
 # 当然Python内置的排序程序一般是最快的（sorted()）
